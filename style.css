@@ -1,0 +1,35 @@
+body {
+	height: 100vh;
+	margin: 0;
+}
+
+#canvas_plot {
+	margin: auto;
+}
+
+.form {
+	background: rgba(255,255,255,0.85);
+	border: solid 1px #aaa;
+	position: fixed;
+	margin: 30px;
+}
+
+p {
+	float: left;
+	margin: 0;
+}
+
+.row {
+	margin: 20px;
+}
+
+input {
+	margin-left: 5px;
+}
+
+.container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	/*background: black;*/
+}
